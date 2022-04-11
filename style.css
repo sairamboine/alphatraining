@@ -13,6 +13,7 @@ html{
 h1{
     font-size: 3rem;
     color: #e2bdbd;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .buffer{
